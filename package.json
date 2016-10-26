@@ -1,0 +1,19 @@
+{
+  "name": "awarejs",
+  "version": "0.0.1",
+  "description": "Aware JS is a library for detecting overlapping elements, useful for example styling fixed positioned menus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vepasto/awarejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vepasto/awarejs/issues"
+  },
+  "homepage": "https://github.com/vepasto/awarejs#readme"
+}
